@@ -70,3 +70,12 @@
 2026-10-12 14:03:32,977 | INFO | onboarding | Generated TXT and PDF for EMP006
 2026-10-12 14:03:32,978 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
 2026-10-12 14:03:32,980 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 14:26:55,272 | INFO | onboarding | Starting onboarding processor
+2026-10-12 14:26:55,304 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 14:26:55,316 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 14:26:55,332 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 14:26:55,334 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 14:26:55,350 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 14:26:55,363 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 14:26:55,364 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 14:26:55,367 | INFO | onboarding | Finished: total=7 success=5 failed=2
