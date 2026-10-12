@@ -1,0 +1,72 @@
+2026-10-12 10:04:41,245 | INFO | onboarding | Starting onboarding processor
+2026-10-12 10:04:41,350 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 10:04:41,377 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 10:04:41,411 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 10:04:41,413 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 10:04:41,450 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 10:04:41,495 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 10:04:41,498 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 10:04:41,518 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 10:05:54,111 | INFO | onboarding | Starting onboarding processor
+2026-10-12 10:05:54,129 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 10:05:54,144 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 10:05:54,153 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 10:05:54,153 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 10:05:54,166 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 10:05:54,178 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 10:05:54,179 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 10:05:54,181 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 10:05:57,662 | INFO | onboarding | Starting onboarding processor
+2026-10-12 10:05:57,681 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 10:05:57,694 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 10:05:57,706 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 10:05:57,707 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 10:05:57,715 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 10:05:57,725 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 10:05:57,727 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 10:05:57,729 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 10:10:58,794 | INFO | onboarding | Starting onboarding processor
+2026-10-12 10:10:58,824 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 10:10:58,842 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 10:10:58,879 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 10:10:58,881 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 10:10:58,909 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 10:10:58,933 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 10:10:58,935 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 10:10:58,940 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 13:59:41,195 | INFO | onboarding | Starting onboarding processor
+2026-10-12 13:59:41,241 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 13:59:41,265 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 13:59:41,295 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 13:59:41,297 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 13:59:41,318 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 13:59:41,336 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 13:59:41,339 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 13:59:41,343 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 14:01:27,289 | INFO | onboarding | Starting onboarding processor
+2026-10-12 14:01:27,344 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 14:01:27,367 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 14:01:27,389 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 14:01:27,389 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 14:01:27,409 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 14:01:27,430 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 14:01:27,431 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 14:01:27,433 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 14:02:01,902 | INFO | onboarding | Starting onboarding processor
+2026-10-12 14:02:01,930 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 14:02:01,952 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 14:02:01,978 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 14:02:01,979 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 14:02:02,004 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 14:02:02,026 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 14:02:02,027 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 14:02:02,031 | INFO | onboarding | Finished: total=7 success=5 failed=2
+2026-10-12 14:03:32,878 | INFO | onboarding | Starting onboarding processor
+2026-10-12 14:03:32,909 | INFO | onboarding | Generated TXT and PDF for EMP001
+2026-10-12 14:03:32,924 | INFO | onboarding | Generated TXT and PDF for EMP002
+2026-10-12 14:03:32,943 | INFO | onboarding | Generated TXT and PDF for EMP003
+2026-10-12 14:03:32,946 | WARNING | onboarding | Row 5 rejected (ID=EMP004): Employee Name is required
+2026-10-12 14:03:32,961 | INFO | onboarding | Generated TXT and PDF for EMP005
+2026-10-12 14:03:32,977 | INFO | onboarding | Generated TXT and PDF for EMP006
+2026-10-12 14:03:32,978 | WARNING | onboarding | Row 8 rejected (ID=EMP001): Duplicate Employee ID: EMP001
+2026-10-12 14:03:32,980 | INFO | onboarding | Finished: total=7 success=5 failed=2

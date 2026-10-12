@@ -1,0 +1,8 @@
+﻿row_number,employee_id,name,status,message,txt_file,pdf_file
+2,EMP001,Anil Kumar,SUCCESS,TXT and PDF generated,output\EMP001_Anil_Kumar\onboarding.txt,output\EMP001_Anil_Kumar\onboarding.pdf
+3,EMP002,Priya Reddy,SUCCESS,TXT and PDF generated,output\EMP002_Priya_Reddy\onboarding.txt,output\EMP002_Priya_Reddy\onboarding.pdf
+4,EMP003,Arjun Rao,SUCCESS,TXT and PDF generated,output\EMP003_Arjun_Rao\onboarding.txt,output\EMP003_Arjun_Rao\onboarding.pdf
+5,EMP004,,FAILED,Employee Name is required,,
+6,EMP005,Ravi Kumar,SUCCESS,TXT and PDF generated,output\EMP005_Ravi_Kumar\onboarding.txt,output\EMP005_Ravi_Kumar\onboarding.pdf
+7,EMP006,Duplicate ID,SUCCESS,TXT and PDF generated,output\EMP006_Duplicate_ID\onboarding.txt,output\EMP006_Duplicate_ID\onboarding.pdf
+8,EMP001,Duplicate Anil,FAILED,Duplicate Employee ID: EMP001,,
